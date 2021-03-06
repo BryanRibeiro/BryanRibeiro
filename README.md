@@ -1,4 +1,8 @@
-### Bryan Ribeiro 
+### Bryan Ribeiro :rocket:
+
+> IT Sales Manager at Technite Soluções Digitais | Cloud | Systems Developer | Young Entrepreneur | IT Consultant
+
+<br>
 
 A young protagonist, I am a values oriented person, I like to make things happen, solve problems and bring significant changes to the world.
 
