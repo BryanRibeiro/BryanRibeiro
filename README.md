@@ -1,6 +1,6 @@
 ### Bryan Romero Ribeiro :rocket:
 
-> IT Sales Manager at Technite Soluções Digitais | Cloud | Systems Developer | IT Infrastructure | IT Consultant
+> IT Sales Intern at Technite Soluções Digitais | Cloud | Systems Developer | IT Infrastructure | IT Consultant
 
 <br>
 
