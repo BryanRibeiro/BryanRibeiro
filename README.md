@@ -1,14 +1,14 @@
-### Bryan Romero Ribeiro :rocket:
+### Olá, meu nome é Bryan Ribeiro :rocket:
 
 > IT Sales Intern at Technite Soluções Digitais | Cloud | Systems Developer | IT Infrastructure | IT Consultant
 
 <br>
 
-A young protagonist, I am a values oriented person, I like to make things happen, solve problems and bring significant changes to the world.
+**Jovem protagonista**, com muita vontade de aprender e contribuir com meu potencial para as empresas, orientado por valores, gosto de fazer acontecer, resolver problemas e trazer mudanças significativas para o mundo.
 
-I'm passionate about innovation and I love technology and music. I believe that development and evolution are constant processes in our lives, so I always try to study and learn more and more and always share with others, everything I learned.
+Sou apaixonado por inovação e tecnologia, gosto muito de música e trabalhos em equipe. Acredito que desenvolvimento e evolução são processos constantes em nossas vidas, por isso procuro sempre estudar, aprender cada vez mais e sempre compartilhar com os outros tudo o que aprendi.
 
-A dedicated and loyal person with the goals set for me. I like challenges and situations that take me out of my comfort zone and my main goal in life is to participate in building a better world and leave my mark and legacy on it.
+Uma pessoa dedicada e leal com os objetivos propostos. Gosto de desafios e situações que me tirem da zona de conforto e meu principal objetivo na vida é participar da construção de um mundo melhor, deixar minha marca e legado nele.
 
 
 ![Bryan GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanRibeiro&show_icons=true&theme=radical)
