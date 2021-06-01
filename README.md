@@ -1,6 +1,6 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
-> IT Sales Intern at Technite Soluções Digitais | Cloud | Systems Developer | IT Infrastructure | IT Consultant
+> IT Intern | Systems Developer | IT Infrastructure | IT Consultant
 
 <br>
 
