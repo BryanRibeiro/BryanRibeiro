@@ -1,6 +1,6 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
-> IT Intern | Systems Developer | IT Infrastructure | IT Consultant
+> Commercial Intern at Cebrace | Systems Developer | IT Infrastructure
 
 <br>
 
