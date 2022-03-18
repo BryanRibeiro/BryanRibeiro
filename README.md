@@ -15,3 +15,18 @@ Uma pessoa dedicada e leal com os objetivos propostos. Gosto de desafios e situa
 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bryanrribeiro/)
+
+<br>
+
+**Aprendizagem por Projetos Integrados**
+
+Na Fatec SJC, nós aprendemos a utilizar a metodologia ágil 🏃, onde são feitos projetos em cada semestre, com base em um problema da vida real. Projetos esses que vem de empresas presentes no Parque Tecnológico. 
+
+Conheça um pouco mais sobre cada semestre.
+
+ - [x] [1º Semestre](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA)
+ - [x] [2º Semestre](https://github.com/Time-1-ADS/ProjetoGSW/tree/sprints)
+ - [ ] 3º Semestre:  Em Andamento 🚧
+ - [ ] 4º Semestre
+ - [ ] 5º Semestre
+ - [ ] 6º Semestre
