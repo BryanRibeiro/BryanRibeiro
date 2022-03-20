@@ -18,9 +18,9 @@ Uma pessoa dedicada e leal com os objetivos propostos. Gosto de desafios e situa
 
 <br>
 
-**Aprendizagem por Projetos Integrados**
+**🎯 API - Aprendizagem por Projetos Integrados**
 
-Na Fatec SJC, nós aprendemos a utilizar a metodologia ágil 🏃, onde são feitos projetos em cada semestre, com base em um problema da vida real. Projetos esses que vem de empresas presentes no Parque Tecnológico. 
+Na Fatec de São José dos Campos, nós aprendemos a utilizar a metodologia ágil 🏃, onde são feitos projetos a cada semestre, com base em problemas da vida real. Projetos esses que vêm de empresas presentes no Parque Tecnológico. 
 
 Conheça um pouco mais sobre cada semestre.
 
