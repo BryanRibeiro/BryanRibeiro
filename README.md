@@ -20,13 +20,13 @@ Uma pessoa dedicada e leal com os objetivos propostos. Gosto de desafios e situa
 
 **🎯 API - Aprendizagem por Projetos Integrados**
 
-Na Fatec de São José dos Campos, nós aprendemos a utilizar a metodologia ágil 🏃, onde são feitos projetos a cada semestre, com base em problemas da vida real. Projetos esses que vêm de empresas presentes no Parque Tecnológico. 
+Na Fatec de São José dos Campos, nós aprendemos a utilizar a metodologia ágil Scrum, onde são desenvolvidos projetos por semestres, com base em problemas reais de empresas presentes no Parque Tecnológico. 
 
 Conheça um pouco mais sobre cada semestre.
 
  - [x] [1º Semestre](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA): Concluído ☑️
  - [x] [2º Semestre](https://github.com/Time-1-ADS/ProjetoGSW/tree/sprints): Concluído ☑️
  - [x] [3º Semestre](https://github.com/Doc-Docker/APIMidAll): Concluído ☑️
- - [ ] 4º Semestre
+ - [ ] 4º Semestre Em andamento 🚧
  - [ ] 5º Semestre
  - [ ] 6º Semestre
