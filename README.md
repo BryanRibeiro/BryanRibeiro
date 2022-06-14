@@ -26,7 +26,7 @@ Conheça um pouco mais sobre cada semestre.
 
  - [x] [1º Semestre](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA): Concluído ☑️
  - [x] [2º Semestre](https://github.com/Time-1-ADS/ProjetoGSW/tree/sprints): Concluído ☑️
- - [ ] [3º Semestre](https://github.com/Doc-Docker/APIMidAll): Em Andamento 🚧
+ - [x] [3º Semestre](https://github.com/Doc-Docker/APIMidAll): Concluído ☑️
  - [ ] 4º Semestre
  - [ ] 5º Semestre
  - [ ] 6º Semestre
