@@ -30,3 +30,11 @@ Conheça um pouco mais sobre cada semestre.
  - [ ] 4º Semestre Em andamento 🚧
  - [ ] 5º Semestre
  - [ ] 6º Semestre
+
+<br>
+
+<div> 
+ </a>
+ 
+   ![Snake animation](https://github.com/ZaionKun/ZaionKun/blob/output/github-contribution-grid-snake.svg)</a>
+</div>   
