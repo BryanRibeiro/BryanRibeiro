@@ -10,11 +10,12 @@ Sou apaixonado por inovação e tecnologia, gosto muito de música e trabalhos e
 
 Uma pessoa dedicada e leal com os objetivos propostos. Gosto de desafios e situações que me tirem da zona de conforto e meu principal objetivo na vida é participar da construção de um mundo melhor, deixar minha marca e legado nele.
 
-
-![Bryan GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanRibeiro&show_icons=true&theme=radical)
-
-
+<div align="center">
+  <a href="https://github.com/BryanRibeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bryanrribeiro/)
+</div>
 
 <br>
 
@@ -27,7 +28,7 @@ Conheça um pouco mais sobre cada semestre.
  - [x] [1º Semestre](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA): Concluído ☑️
  - [x] [2º Semestre](https://github.com/Time-1-ADS/ProjetoGSW/tree/sprints): Concluído ☑️
  - [x] [3º Semestre](https://github.com/Doc-Docker/APIMidAll): Concluído ☑️
- - [ ] 4º Semestre Em andamento 🚧
+ - [x] [4º Semestre](https://github.com/Doc-Docker/APISubiter): Em andamento 🚧
  - [ ] 5º Semestre
  - [ ] 6º Semestre
 
