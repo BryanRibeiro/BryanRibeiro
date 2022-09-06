@@ -14,6 +14,8 @@ Uma pessoa dedicada e leal com os objetivos propostos. Gosto de desafios e situa
   <a href="https://github.com/BryanRibeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanRibeiro&layout=compact&langs_count=7&theme=tokyonight"/>
+  
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bryanrribeiro/)
 </div>
 
