@@ -8,8 +8,6 @@
 
 Sou apaixonado por inovação e tecnologia, gosto muito de música e trabalhos em equipe. Acredito que desenvolvimento e evolução são processos constantes em nossas vidas, por isso procuro sempre estudar, aprender cada vez mais e sempre compartilhar com os outros tudo o que aprendi.
 
-Uma pessoa dedicada e leal com os objetivos propostos. Gosto de desafios e situações que me tirem da zona de conforto e meu principal objetivo na vida é participar da construção de um mundo melhor, deixar minha marca e legado nele.
-
 <div align="center">
   <a href="https://github.com/BryanRibeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
