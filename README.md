@@ -29,7 +29,7 @@ Conheça um pouco mais sobre cada semestre.
  - [x] [2º Semestre](https://github.com/Time-1-ADS/ProjetoGSW/tree/sprints): Concluído ☑️
  - [x] [3º Semestre](https://github.com/Doc-Docker/APIMidAll): Concluído ☑️
  - [x] [4º Semestre](https://github.com/Doc-Docker/APISubiter): Concluído ☑️
- - [ ] 5º Semestre
+ - [x] [5º Semestre](https://github.com/TechNinjass/midall-parent): Em Andamento 🕗
  - [ ] 6º Semestre
 
 <br>
