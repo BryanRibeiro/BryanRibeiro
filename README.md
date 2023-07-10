@@ -4,9 +4,9 @@
 
 <br>
 
-**Jovem protagonista**, com muita vontade de aprender e contribuir com meu potencial para as empresas, orientado por valores, gosto de fazer acontecer, resolver problemas e trazer mudanças significativas para o mundo.
+**Jovem protagonista** em constante busca por aprendizado e crescimento, comprometido em contribuir com seu potencial para impulsionar o sucesso das empresas. Movido por valores, sou determinado a fazer a diferença, solucionar desafios e promover mudanças significativas no mundo.
 
-Sou apaixonado por inovação e tecnologia, gosto muito de música e trabalhos em equipe. Acredito que desenvolvimento e evolução são processos constantes em nossas vidas, por isso procuro sempre estudar, aprender cada vez mais e sempre compartilhar com os outros tudo o que aprendi.
+Com uma paixão por inovação e tecnologia, além de apreciar a música e o trabalho em equipe, acredito que o desenvolvimento contínuo é essencial para o progresso pessoal e profissional. Estou sempre empenhado em estudar, adquirir novos conhecimentos e compartilhar com os outros.
 
 <div align="center">
   <a href="https://github.com/BryanRibeiro">
