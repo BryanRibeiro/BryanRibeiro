@@ -1,6 +1,6 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
-> Commercial Intern at Cebrace | Systems Developer | IT Software Student
+> Sales Analyst Jr. at Cebrace | Systems Developer | IT Software Student
 
 <br>
 
