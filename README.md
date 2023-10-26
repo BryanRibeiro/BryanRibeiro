@@ -8,13 +8,14 @@
 
 Com uma paixão por inovação e tecnologia, além de apreciar a música e o trabalho em equipe, acredito que o desenvolvimento contínuo é essencial para o progresso pessoal e profissional. Estou sempre empenhado em estudar, adquirir novos conhecimentos e compartilhar com os outros.
 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/)
+
 <div align="center">
   <a href="https://github.com/BryanRibeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanRibeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Zago&layout=compact&langs_count=7&theme=tokyonight"/>
   
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/bryanrribeiro/)
 </div>
 
 <br>
