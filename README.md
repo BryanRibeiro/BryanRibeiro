@@ -31,4 +31,4 @@ Conheça um pouco mais sobre cada semestre.
  - [x] [3º Semestre](https://github.com/Doc-Docker/APIMidAll): Concluído ☑️
  - [x] [4º Semestre](https://github.com/Doc-Docker/APISubiter): Concluído ☑️
  - [x] [5º Semestre](https://github.com/TechNinjass/midall-parent): Concluído ☑️
- - [x] [6º Semestre](https://github.com/TechVisionn/tech-parent): Em Andamento 🏗️
+ - [x] [6º Semestre](https://github.com/TechVisionn/tech-parent): Concluído ☑️
