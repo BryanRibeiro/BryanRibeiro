@@ -2,13 +2,11 @@
 
 > Sales Analyst Jr. at Cebrace | Systems Developer | IT Software Student
 
-<br>
-
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/)
+ 
 **Jovem protagonista** em constante busca por aprendizado e crescimento, comprometido em contribuir com seu potencial para impulsionar o sucesso das empresas. Movido por valores, sou determinado a fazer a diferença, solucionar desafios e promover mudanças significativas no mundo.
 
 Com uma paixão por inovação e tecnologia, além de apreciar a música e o trabalho em equipe, acredito que o desenvolvimento contínuo é essencial para o progresso pessoal e profissional. Estou sempre empenhado em estudar, adquirir novos conhecimentos e compartilhar com os outros.
-
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/)
 
 <div align="center">
   <a href="https://github.com/BryanRibeiro">
