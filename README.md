@@ -20,15 +20,42 @@ Com uma paixão por inovação e tecnologia, além de apreciar a música e o tra
 
 <br>
 
-**🎯 API - Aprendizagem por Projetos Integrados**
+<h2> Meus Principais Conhecimentos :bar_chart:</h2>
+<ul>
+  <li>Linguagens de programação:
+  <ul>
+    <li><code>Java</code> na criação de API's (Application Programming Interface) Rest utilizando o Framework <code>SpringBoot</code>;</li>
+    <li><code>Python</code> para automação de processos e manipulação de documentos;</li>
+    <li><code>React</code> no desenvolvimento de interfaces interativas utilizando bibliotecas como <code>Leaflet</code> para mapeamento;</li>
+    <li><code>SQL</code> para modelagem, criação e manipulação de Banco de Dados <code>Oracle</code>, <code>MySQL</code> e <code>SQL Server</code>.</li>
+    </ul></li>
+  <br>
+  <li> Metodologia Ágil (Scrum) - Product Owner:
+  <ul> 
+    <li>Criação do Product Backlog pela metodologia Product Backlog Building (PBB);</li>
+    <li>Quebra das User Stories da Sprint em Tasks objetivas;</li>
+    <li>Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe;</li>
+    <li>Utilização das ferramentas <code>Trello</code> e <code>Jira</code>.</li> 
+    </ul></li>
+  <br>
+  <li> DevOps:
+  <ul> 
+    <li>Versionamento de código padronizado com Git Workflow;</li>
+    <li>Pipelines build, teste unitário, teste integrado e deploy pelo <code>Docker</code>;</li>
+    <li>Issue Control com rastreamento bidirecional utilizando <code>Husky</code>.</li>
+    </ul></li>
+  </ul>
 
-Na Fatec de São José dos Campos, nós aprendemos a utilizar a metodologia ágil Scrum, onde são desenvolvidos projetos por semestres, com base em problemas reais de empresas presentes no Parque Tecnológico. 
+---
 
-Conheça um pouco mais sobre cada semestre.
+ <h2 align="center"> Meus Projetos :books:</h2>
+ 
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_1.md">1º Semestre: SOS EDUCA - Site de Vendas de Materiais Didáticos.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_2.md">2º Semestre: GSW - Dashboard para acompanhamento dos projetos, através de diferentes fontes de dados.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_3.md">3° Semestre: PromoAll - Ecommerce com um motor de regras para promoções aplicadas no momento da compra.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_4.md">4° Semestre: Subiter - Aplicação Web para sincronização dos dados administrativos, financeiros e operacionais.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_5.md">5º Semestre: Tech Ninjas - Automatização de transferência de arquivos entre nuvens.</a></li></p>
+   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_6.md">6º Semestre: Tech Vision - Sistema de Informação Geográfica de dados públicos do ProAgro.</a></li></p>
 
- - [x] [1º Semestre](https://github.com/Grupo-1-2020-PI-FATEC-ADS/SOS-EDUCA): Concluído ☑️
- - [x] [2º Semestre](https://github.com/Time-1-ADS/ProjetoGSW/tree/sprints): Concluído ☑️
- - [x] [3º Semestre](https://github.com/Doc-Docker/APIMidAll): Concluído ☑️
- - [x] [4º Semestre](https://github.com/Doc-Docker/APISubiter): Concluído ☑️
- - [x] [5º Semestre](https://github.com/TechNinjass/midall-parent): Concluído ☑️
- - [x] [6º Semestre](https://github.com/TechVisionn/tech-parent): Concluído ☑️
+</body>
+</html>
