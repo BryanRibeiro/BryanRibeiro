@@ -1,6 +1,6 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
-> Data Analyst | Software Developer | IT Database Student | Java | Python | Power BI | SAP ERP | Sales Force
+>  Software Developer | IT Database Student | Java | Python | Power BI | SAP ERP | Sales Force
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/)
  
