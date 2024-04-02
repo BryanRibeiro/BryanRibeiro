@@ -1,8 +1,6 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
 >  Data Analytics | Python | ETL | Power BI | SAP ERP | Sales Force
-
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/)
  
 **Jovem protagonista** na área de tecnologia com experiência em projetos utilizando linguagens de programação e metodologia ágil Scrum. Na Cebrace, atuo como Analista Administrativo, minhas principais responsabilidades incluem análise de dados com ferramentas como Power BI e QlikView, suporte no sistema SAP ERP, gestão de plataformas de e-commerce e monitoramento de indicadores de desempenho de vendas.
 
@@ -12,7 +10,10 @@ Ao longo da minha trajetória, participei de diversos projetos, onde pude aplica
 
 ☏ Telefone: (12) 99174-4133
 
-📧 E-mail: bryanrribeiro@gmail.com
+  <a href="mailto:bryanrribeiro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/)
 
 <div align="center">
   <a href="https://github.com/BryanRibeiro">
