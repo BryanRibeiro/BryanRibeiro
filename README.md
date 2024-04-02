@@ -19,7 +19,7 @@ Ao longo da minha trajetória, participei de diversos projetos, onde pude aplica
     <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanRibeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   <a href="https://github.com/BryanRibeiro">
-    <img height="150em" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=BryanRibeiro&theme=dracula&mode=weekly" />
+    <img height="150em" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=BryanRibeiro&theme=dracula&mode=weekly" />
   </a>
 </div>
 
