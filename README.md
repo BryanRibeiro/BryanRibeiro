@@ -16,11 +16,10 @@ Ao longo da minha trajetória, participei de diversos projetos, onde pude aplica
 
 <div align="center">
   <a href="https://github.com/BryanRibeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanRibeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanRibeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-  <br>
   <a href="https://github.com/BryanRibeiro">
-    <img width="45%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BryanRibeiro&theme=dracula&mode=weekly" />
+    <img height="150em" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=drakkeo&theme=dracula&mode=weekly" />
   </a>
 </div>
 
