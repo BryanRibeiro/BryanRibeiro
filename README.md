@@ -1,12 +1,18 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
->  Software Developer | IT Database Student | Java | Python | Power BI | SAP ERP | Sales Force
+>  Data Analytics | Python | ETL | Power BI | SAP ERP | Sales Force
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/)
  
-**Jovem protagonista** em constante busca por aprendizado e crescimento, comprometido em contribuir com seu potencial para impulsionar o sucesso das empresas. Movido por valores, sou determinado a fazer a diferença, solucionar desafios e promover mudanças significativas no mundo.
+**Jovem protagonista** na área de tecnologia com experiência em projetos utilizando linguagens de programação e metodologia ágil Scrum. Na Cebrace, atuo como Analista Administrativo, minhas principais responsabilidades incluem análise de dados com ferramentas como Power BI e QlikView, suporte no sistema SAP ERP, gestão de plataformas de e-commerce e monitoramento de indicadores de desempenho de vendas.
 
-Com uma paixão por inovação e tecnologia, além de apreciar a música e o trabalho em equipe, acredito que o desenvolvimento contínuo é essencial para o progresso pessoal e profissional. Estou sempre empenhado em estudar, adquirir novos conhecimentos e compartilhar com os outros.
+Além disso, tenho experiência como Product Owner, onde fui responsável pela organização do produto, criação do Product Backlog, quebra de User Stories em Tasks objetivas e desenvolvimento da equipe, utilizando ferramentas como Trello e Jira.
+
+Ao longo da minha trajetória, participei de diversos projetos, onde pude aplicar essas habilidades com empresas reais do Parque Tecnológico de São José dos Campos, contribuindo para o sucesso e a inovação.
+
+☏ Telefone: (12) 99174-4133
+
+📧 E-mail: bryanrribeiro@gmail.com
 
 <div align="center">
   <a href="https://github.com/BryanRibeiro">
