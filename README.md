@@ -1,6 +1,6 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
->  Data Analytics | Python | ETL | Power BI | SAP ERP | Sales Force
+>  Data Analytics | Python | Java | Power BI | SAP ERP | Sales Force
  
 **Jovem protagonista** na área de tecnologia com experiência em projetos utilizando linguagens de programação e metodologia ágil Scrum. Na Cebrace, atuo como Analista Administrativo, minhas principais responsabilidades incluem análise de dados com ferramentas como Power BI e QlikView, suporte no sistema SAP ERP, gestão de plataformas de e-commerce e monitoramento de indicadores de desempenho de vendas.
 
