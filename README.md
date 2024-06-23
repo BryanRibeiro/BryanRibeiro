@@ -1,12 +1,16 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
->  Data Analytics | Python | Java | Power BI | SAP ERP | Sales Force
+>  Backend Developer | Java | Python | Sales Force | SAP ERP
  
-**Jovem protagonista** na área de tecnologia com experiência em projetos utilizando linguagens de programação e metodologia ágil Scrum. Na Cebrace, atuo como Analista Administrativo, minhas principais responsabilidades incluem análise de dados com ferramentas como Power BI e QlikView, suporte no sistema SAP ERP, gestão de plataformas de e-commerce e monitoramento de indicadores de desempenho de vendas.
+Desenvolvedor de Software com experiência em Java e Python, focado em entregar soluções tecnológicas. Trabalho com metodologias ágeis (Scrum e Kanban), utilizando ferramentas como Jira e Trello.
 
-Além disso, tenho experiência como Product Owner, onde fui responsável pela organização do produto, criação do Product Backlog, quebra de User Stories em Tasks objetivas e desenvolvimento da equipe, utilizando ferramentas como Trello e Jira.
+Minhas principais responsabilidades incluem o desenvolvimento backend utilizando Java e Spring Boot, criação de scripts em Python para automação e análise de dados, integração de APIs RESTful e gerenciamento de bancos de dados SQL.
 
-Ao longo da minha trajetória, participei de diversos projetos, onde pude aplicar essas habilidades com empresas reais do Parque Tecnológico de São José dos Campos, contribuindo para o sucesso e a inovação.
+Tenho experiência prática como Product Owner e Desenvolvedor, organizando sprints, gerenciando o Product Backlog, quebrando User Stories em Tasks e colaborando com equipes.
+
+Ao longo da minha trajetória, participei de diversos projetos inovadores que resultaram em melhorias significativas para os negócios. Busco continuamente aprimorar minhas habilidades e conhecimentos, contribuindo para a inovação e sucesso das empresas. 
+
+Se você procura um desenvolvedor dedicado e apaixonado por tecnologia, vamos nos conectar!
 
 ☏ Telefone: (12) 99174-4133
 
