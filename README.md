@@ -19,17 +19,6 @@ Se você procura um desenvolvedor dedicado e apaixonado por tecnologia, vamos no
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bryanrribeiro/)
 
-<div align="center">
-  <a href="https://github.com/BryanRibeiro">
-    <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanRibeiro&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-  <a href="https://github.com/BryanRibeiro">
-    <img height="150em" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=BryanRibeiro&theme=dracula&mode=weekly" />
-  </a>
-</div>
-
-<br>
-
 <h2> Meus Principais Conhecimentos :bar_chart:</h2>
 <ul>
   <li>Linguagens de programação:
