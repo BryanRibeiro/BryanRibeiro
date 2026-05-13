@@ -1,6 +1,6 @@
 ### Olá, meu nome é Bryan Ribeiro :rocket:
 
->  Backend Developer | Java | Python | Sales Force | SAP ERP
+>  Product Owner | Java | Python | Sales Force | SAP ERP
  
 Desenvolvedor de Software com experiência em Java e Python, focado em entregar soluções tecnológicas. Trabalho com metodologias ágeis (Scrum e Kanban), utilizando ferramentas como Jira e Trello.
 
